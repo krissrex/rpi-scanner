@@ -1,0 +1,5 @@
+# python3
+evdev==1.5.0
+requests==2.25.1
+python-stdnum==1.17
+
